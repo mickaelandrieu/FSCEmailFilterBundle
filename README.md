@@ -4,8 +4,6 @@ This bundle check if an email or a domain is valid or not.
 
 ##Documentation
 
-The bulk of the documentation is stored in the Resources/doc/index.md.
-
 ### Configuration
 
 Add the following to your application's `config.yml`.
